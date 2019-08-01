@@ -10,9 +10,10 @@ Moreover, to build the sample, we need the following libraries:
 
 #RUN
 
- 1.mkdir build
- 2.cd build
- 3.cmake .. -G"Visual Studio 15 2017 Win64"
+
+- mkdir build
+- cd build
+- cmake .. -G"Visual Studio 15 2017 Win64"; or cmake .. -G"Visual Studio 16 2019 Win64"
  
  Please refer to this website for details:
  https://mp.csdn.net/postedit/97315485
