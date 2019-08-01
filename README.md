@@ -1,6 +1,6 @@
 # test sgm on windows
 
-## Requirements
+# Requirements
 libSGM needs CUDA (compute capabilities >= 3.0) to be installed.  
 Moreover, to build the sample, we need the following libraries:
 - OpenCV 3.0 or later
@@ -8,7 +8,7 @@ Moreover, to build the sample, we need the following libraries:
 - vs2017 or vs2019
 - MINGW64
 
-#RUN
+# RUN
 
 
 - mkdir build
